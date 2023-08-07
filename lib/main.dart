@@ -4,7 +4,7 @@ import 'package:provider_state_management/provider/count_provider.dart';
 import 'package:provider_state_management/provider/example_multi_provider.dart';
 import 'package:provider_state_management/favourite_app/favourite_provider.dart';
 import 'package:provider_state_management/provider/theme_provider.dart';
-import 'package:provider_state_management/screens/dark_theme.dart';
+import 'package:provider_state_management/screens/stless_as_stfull.dart';
 
 void main() {
   runApp(const MyApp());
@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             debugShowCheckedModeBanner: false,
-            home: const DarkTheme(),
+            home: StlessAsStfull(),
           );
         },
       ),
