@@ -32,6 +32,7 @@ class _LoginScreenState extends State<LoginScreen> {
               controller: emailController,
               decoration: const InputDecoration(
                 hintText: "Email",
+                // eve.holt@reqres.in email for login
               ),
             ),
             const SizedBox(
@@ -41,6 +42,7 @@ class _LoginScreenState extends State<LoginScreen> {
               controller: passwordController,
               decoration: const InputDecoration(
                 hintText: "Password",
+                // cityslicka password for log in
               ),
             ),
             const SizedBox(
