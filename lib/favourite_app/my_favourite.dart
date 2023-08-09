@@ -16,7 +16,7 @@ class _MyFavouriteState extends State<MyFavourite> {
     print('Build');
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Favourite Screen'),
+        title: const Text('Favourite Items'),
         actions: [
           InkWell(
             onTap: () {
