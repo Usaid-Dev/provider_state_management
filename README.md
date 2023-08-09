@@ -1,4 +1,4 @@
-<img width="1421" alt="Screenshot 2023-08-09 at 5 42 49 PM" src="https://github.com/Usaid-Dev/provider_state_management/assets/67046451/ee24db1d-8650-460d-915a-d35311a79604"># Provider_State_Management
+# Provider_State_Management
 
 In this project I cleared my concepts about Provider_State_Management
 
